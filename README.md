@@ -1,1 +1,4 @@
-# Getting-and-Cleaning-Data
+# Getting-and-Cleaning-Data  
+In this project we will download data from the internet. The data is taken from the accelerometers from the Samsung Galaxy S smartphone that recorded 30 subjects doing 6 different activities. While doing these 6 different activities, many different measurements were recorded. This data shows these measurements.
+
+The data was taken from a test set and a train set. In this project we will combine the test and train set into one large set. We will then match variable names with their appropriate measurement. We will then select only the variables that have mean and standard deviation measurements. Next, we will match Activity labels with their correspsonding activity number. Finally, we will find the mean for each variable that tells how each subject performed each particular activity.
