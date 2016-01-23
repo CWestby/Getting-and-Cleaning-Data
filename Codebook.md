@@ -1,7 +1,7 @@
 # Codebook
 
 ### Identifiers
-`Subject_ID` - the ID number of each of the 30 subjects in the data  
+`Subject_ID` - the ID number of each of the 30 subjects in the data set  
 `Activities` - Each of the 6 activities performed
 
 ### Activities  
@@ -16,7 +16,7 @@ These are the 6 activities that were performed. A measurement for each variable 
 
 
 ### Measurements
-These are the variables that appear in the final data sets `mean_std_data` and `averages`. They were taken from the original data set, but only show variables associated with means and standard deviations.  
+These are the variables that appear in the final data sets `mean_std_data` and `averages`. They were taken from the original data set, but only show variables associated with means and standard deviations. In the `mean_std_data` set these variables record each measurement taken from the accelerometer for each subject performing the activity. In the `averages` data set these variables were averaged for each subject performing each respective activity.
 
 `tBodyAcc-mean()-X`                    
 `tBodyAcc-mean()-Y`                   
