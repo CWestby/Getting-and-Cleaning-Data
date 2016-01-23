@@ -82,3 +82,5 @@ averages <- tbl_df(averages)
 View(averages)
   # Command to view data set that contains the mean for each variable telling how each subject did on each activity
 
+write.table(averages, file="Averages.txt", row.names = FALSE)
+  # Turns the final data set into a text file
